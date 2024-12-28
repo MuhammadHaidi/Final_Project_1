@@ -9,3 +9,7 @@ Hotel wifi service, Departure/Arrival convenience, Ease of Online booking, Hotel
 Food and drink, Stay comfort, Common Room entertainment, Checkin/Checkout service, Other service, Cleanliness
 4. Target (Kepuasan Pelanggan):
 satisfaction: Kategori "satisfied" dan "neutral or dissatisfied".
+
+# Highlight Proyek
+1. Menentukan fitur-fitur yang paling memengaruhi kepuasan pelanggan menggunakan teknik statistik.
+2. Visualisasi hasil untuk mendukung wawasan yang ditemukan.
